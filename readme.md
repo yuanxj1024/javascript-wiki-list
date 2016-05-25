@@ -14,16 +14,17 @@
 
 *	CSS
 	*	[CSS3速查表](http://www.css88.com/book/css/css3-quicksearch.htm)
-
+	
 
 
 *	React
-
+	
 
 
 
 *	Angular
-
+	*	[angular中文](http://www.apjs.net/)
+	*	[angualr2官网](https://angular.io/)
 
 *	预编译
 	*	[CoffeeScript]()	
