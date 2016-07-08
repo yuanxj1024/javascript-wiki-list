@@ -40,8 +40,7 @@
 *	Angular
 	*	[angular中文](http://www.apjs.net/)
 	*	[angualr2官网](https://angular.io/)
-*	Ioinc
-	*	[Ionic中文](http://www.ionic.wang/js_doc-index.html)	
+
 
 *	NodeJS
 	*	[node.js v4.2.4版手册](http://nodeapi.ucdok.com/)		
@@ -51,3 +50,8 @@
 	*	[TypeScript 英文](http://www.typescriptlang.org/docs/tutorial.html)
 
 
+### Hybrid App	
+*	Ioinc
+	*	[Ionic中文](http://www.ionic.wang/js_doc-index.html)
+	*	[阿里的Weex](http://alibaba.github.io/weex/)
+	*	[Native Script](https://www.nativescript.org/)			
