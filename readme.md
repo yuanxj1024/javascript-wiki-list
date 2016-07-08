@@ -34,7 +34,7 @@
 	*	[React Router中文文档](http://react-guide.github.io/react-router-cn/)
 	
 *	VUE
-	*	[vue api](http://cn.vuejs.org/api/)				
+	*	[vue api](http://cn.vuejs.org/api/)	
 
 
 *	Angular
