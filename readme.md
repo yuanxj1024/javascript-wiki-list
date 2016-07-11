@@ -38,7 +38,7 @@
 	*	[Vuex](https://github.com/vuejs/vuex/blob/master/docs/zh-cn/intro.md)
 		
 		Vuex 是一个专门为 Vue.js 应用所设计的集中式状态管理架构。它借鉴了 Flux 和 Redux 的设计思想，但简化了概念，并且采用了一种为能更好发挥 Vue.js 数据响应机制而专门设计的实现。
-	*	[router for vue](https://github.com/vuejs/vue-router)
+	*	[router for vue](https://github.com/vuejs/vue-router)   [查看API](http://router.vuejs.org/zh-cn/index.html)
 
 *	Angular
 	*	[angular中文](http://www.apjs.net/)
