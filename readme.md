@@ -24,6 +24,11 @@
 	*	[extjs v4.1.0](http://extjs-doc-cn.github.io/ext4api/)
 	*	[prototype.js](http://thinhunan.cnblogs.com/archive/2006/04/01/DeveloperNotesForPrototype.html)
 	*	[mootools](http://www.chinamootools.com/)
+*	手势库
+	*	腾讯的[AlloyFinger](https://github.com/AlloyTeam/AlloyFinger)
+	*	百度的[TOUCH.JS](http://touch.code.baidu.com/)  有点小问题
+	*	著名的[Hammer](http://hammerjs.github.io/)
+			
 *	React
 	*	[React 中文站](http://reactjs.cn/)	
 	*	[React顶层API](http://reactjs.cn/react/docs/top-level-api.html)
