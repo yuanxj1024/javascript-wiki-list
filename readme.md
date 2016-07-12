@@ -5,10 +5,7 @@
 
 --还在完善中
 
-`CDN资源`:
-
-*	[BootCDN](http://www.bootcdn.cn/)
-
+`CDN资源`:[BootCDN](http://www.bootcdn.cn/)
 
 
 *	HTML
@@ -60,10 +57,13 @@
 *	web APP
 	*	[SUI Mobile](http://m.sui.taobao.org/)	
 	*	Vue 和 WeUI结合[vux](https://github.com/airyland/vux)
+	*	[百度的GMU](http://gmu.baidu.com/)
+	
+		GMU是基于zepto的mobile UI组件库，提供webapp、pad端简单易用的UI组件!
 
 
 ### Hybrid App	
 *	Ioinc
 	*	[Ionic中文](http://www.ionic.wang/js_doc-index.html)
-	*	[阿里的Weex](http://alibaba.github.io/weex/)
-	*	[Native Script](https://www.nativescript.org/)			
+*	[阿里的Weex](http://alibaba.github.io/weex/)
+*	[Native Script](https://www.nativescript.org/)			
