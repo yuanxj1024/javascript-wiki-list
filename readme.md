@@ -65,6 +65,11 @@
 	*	[百度的GMU](http://gmu.baidu.com/)
 	
 		GMU是基于zepto的mobile UI组件库，提供webapp、pad端简单易用的UI组件!
+		
+	*	[App.js](http://code.kik.com/app/2/index.html)
+		
+		App.js is a lightweight JavaScript UI library for creating mobile webapps that behave like native apps, sacrificing neither performance nor polish.
+
 
 
 ### Hybrid App	
