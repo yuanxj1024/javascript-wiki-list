@@ -28,7 +28,9 @@
 	*	腾讯的[AlloyFinger](https://github.com/AlloyTeam/AlloyFinger)
 	*	百度的[TOUCH.JS](http://touch.code.baidu.com/)  有点小问题
 	*	著名的[Hammer](http://hammerjs.github.io/)
-			
+*	工具
+	*	轻量级双向绑定[way.js](https://github.com/gwendall/way.js)
+					
 *	React
 	*	[React 中文站](http://reactjs.cn/)	
 	*	[React顶层API](http://reactjs.cn/react/docs/top-level-api.html)
