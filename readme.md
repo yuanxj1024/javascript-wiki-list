@@ -55,6 +55,11 @@
 *	预编译
 	*	[CoffeeScript](http://coffee-script.org/)
 	*	[TypeScript 英文](http://www.typescriptlang.org/docs/tutorial.html)
+	*	[Dart](https://www.dartlang.org/)
+	
+		Dart is an application programming language that’s easy to learn, easy to scale, and deployable everywhere.
+
+		Google depends on Dart to make very large apps.
 
 ### UI Libary
 
