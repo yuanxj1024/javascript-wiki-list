@@ -53,6 +53,7 @@
 	*	[node.js v4.2.4版手册](http://nodeapi.ucdok.com/)		
 
 *	预编译
+	*	[Sass全指南](http://www.w3cplus.com/sassguide/)
 	*	[CoffeeScript](http://coffee-script.org/)
 	*	[TypeScript 英文](http://www.typescriptlang.org/docs/tutorial.html)
 	*	[Dart](https://www.dartlang.org/)
