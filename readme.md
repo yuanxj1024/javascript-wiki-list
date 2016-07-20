@@ -24,6 +24,12 @@
 	*	[extjs v4.1.0](http://extjs-doc-cn.github.io/ext4api/)
 	*	[prototype.js](http://thinhunan.cnblogs.com/archive/2006/04/01/DeveloperNotesForPrototype.html)
 	*	[mootools](http://www.chinamootools.com/)
+	*	[lodash](https://github.com/lodash/lodash)
+		
+		underscore的替代库
+		
+		A modern JavaScript utility library delivering modularity, performance, & extras.
+		
 *	手势库
 	*	腾讯的[AlloyFinger](https://github.com/AlloyTeam/AlloyFinger)
 	*	百度的[TOUCH.JS](http://touch.code.baidu.com/)  有点小问题
