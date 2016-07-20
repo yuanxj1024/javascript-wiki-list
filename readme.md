@@ -53,6 +53,7 @@
 *	Angular
 	*	[angular中文](http://www.apjs.net/)
 	*	[angualr2官网](https://angular.io/)
+		*	[Angular2中文网](https://angular.cn/)
 
 
 *	NodeJS
